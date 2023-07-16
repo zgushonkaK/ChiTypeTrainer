@@ -13,7 +13,8 @@ For the correct work of the application, you need:
 ## Building
 1. Clone the repository:
 
-'git clone https://github.com/zgushonkaK/ChiTypeTrainer.git'
+`git clone https://github.com/zgushonkaK/ChiTypeTrainer.git`
+
 2. Build and install with cmake:
 
 `cmake -S . -B build -DCMAKE_TOOLCHAIN_FILE=<your vcpkg root>/scripts/buildsystems/vcpkg.cmake`
