@@ -21,4 +21,4 @@ For the correct work of the application, you need:
 
 `cmake --build build --config Release`
 
-`cmake --install ./build --prefix ./cards`
+`cmake --install ./build --prefix ./chitypetrainer`
